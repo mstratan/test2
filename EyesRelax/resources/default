@@ -1,0 +1,5 @@
+workTime=12
+shortBreakTime=60
+longBreaks=true
+longBreakTime=540
+shortBreaksBeforeLongOne=3
